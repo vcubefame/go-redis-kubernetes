@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: go-redis-app
-        image: callicoder/go-redis-app:1.0.0 
+        image: vcubefame/go-redis-app:1.0.0 
         imagePullPolicy: IfNotPresent
         resources:
           requests:
